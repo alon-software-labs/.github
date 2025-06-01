@@ -1,3 +1,5 @@
+<!-- Try to fill all of this up, but feel free to remove any unused section below -->
+
 ## Summary of Changes
 #### What did you do?
 - [ ] This resolves [**link issue here**]
@@ -8,8 +10,9 @@
 
 #### Describe your changes.
 
-[ Have you added any dependencies to the project? If so, please uncomment the section below and list the new dependencies ]: #
-<!-- ## Dependencies Added -->
+#### What should we watch out for? (known bugs, features not included in this PR, etc.)
+
+#### Have you added any dependencies to the project? If so, list them here.
 
 ## I verify that...
 - [ ] I am using VS Code for type checks and linting.
