@@ -17,4 +17,4 @@
 - [ ] I have manually checked that this bug or feature is working.
 
 ## How to Test
-Describe in detail how someone else could verify that this feature is working.
+#### Describe in detail how someone else could verify that this feature is working.
